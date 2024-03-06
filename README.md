@@ -22,7 +22,7 @@ Step five Go to the side and select Pages --> Create new page Name it 1v1.lol ![
 
 Step seven Select Embed code ![image](https://github.com/Nobodycares-lo/Google-Sites-Games-Website/assets/140128868/efb1f520-3a72-4a9c-8ee8-29cb9a591610)
 
-Step 8 Then Go to 1v1.lol.html in this repository and copy and paste the code from there into here and select insert ![image](https://github.com/Nobodycares-lo/Google-Sites-Games-Website/assets/140128868/dc1b240f-d576-4a43-a433-3efe707e1c44)
+Step 8 Then paste this url in the box and select insert https://cdn.jsdelivr.net/gh/Nobodycares-lo/CoolOnlineGames@main/dontopen/1v1.lol/1v1.lol.html **ALL OF THE URLS ARE IN URL.txt**
 
  Step 9 Resize the window to its max and then you are done with this page do this for every page copy and paste the code from the games
 
