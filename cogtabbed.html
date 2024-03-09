@@ -1,0 +1,41 @@
+<DOCTYPE html>
+<style>
+body {
+background-color: #2c68ff;
+
+}
+
+</style>
+<center>
+<p> COG Tabbed Application launcher</p></center>
+
+<p>COG Tabbed Launcher is BACK!</p>
+<center>
+
+<button onclick="openGame()" > Play in Fullscreen </button>
+
+<script>
+
+function openGame() {
+
+var win = window.open ()
+
+var url = "https://jesusisking.minecraft.pe/"
+
+var iframe = win.document.createElement('iframe')
+
+iframe.style.width = "100%"
+
+iframe.style.height = "100%"
+
+iframe.style.border = "none"
+
+iframe.src = url
+
+win.document.body.appendChild(iframe)
+
+}
+
+</script>
+
+</center>
